@@ -1,0 +1,12 @@
+{
+  "name": "k_pop_event",
+  "version": "1.0.0",
+  "description": "\"mysql -u root\" pour la base de données  \"brew services restart mysql\" pour redémarrer le serveur MySQL",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
